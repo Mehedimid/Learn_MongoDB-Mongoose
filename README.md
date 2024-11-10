@@ -136,6 +136,6 @@ Differences between MongoDB and Mongoose are highlighted where applicable.
 - **Validation**: Enforce rules on schema fields.
 
 ---
-#Learning link - https://chatgpt.com/share/6730727e-79c4-8012-b05d-db557e0173dd
+# Learning link - https://chatgpt.com/share/6730727e-79c4-8012-b05d-db557e0173dd
 
 This guide serves as an overview of the core concepts and differences between MongoDB and Mongoose.
